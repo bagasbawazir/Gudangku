@@ -17,7 +17,7 @@ Pastikan git cli sudah terinstall, kemudian jalankan perintah dibawah
 
 ## Akun Super Admin
 ```
-email : rafi@gmail.com
+email : bawazir@gmail.com
 password : password
 ```
 
